@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Milton B. Assis 👋
 
 - 🌱 Atualmente estou aprendendo PYTHON
-- 🎯 Meu Objetivo: Ser um Desenvolvedor Full Stack em PYTHON com Aplicação em Ciência de Dados.
+- 🎯 Meu Objetivo: Ser um Desenvolvedor em PYTHON com Aplicação em Ciência de Dados.
 - 🔎 Busco aprender: HTML,CSS e JavaScript.
 
 ##
