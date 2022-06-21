@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou estudando Data Science e Python.
 - 🎯 Meu Objetivo: Ser um Desenvolvedor em PYTHON com Aplicação em Ciência de Dados.
-- 🔎 Busco aprender: Machine Learning, Inteligência Artificial, HTML,CSS e JavaScript.
+- 🔎 Busco aprender: Machine Learning, Inteligência Artificial, HTML, CSS, JavaScript, SQL, C e PHP
 
 ##
 
