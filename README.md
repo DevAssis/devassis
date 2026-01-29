@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Milton B. Assis 👋
 
 - 🌱 Atualmente estou estudando Data Science, IA e Python.
-- 🎯 Meu Objetivo: Ser um Engenheiro de Prompt especializado em Ciências de Dados.
-- 🔎 Busco aprender: Machine Learning, Inteligência Artificial, Python, SQL, C e PHP
+- 🎯 Meu Objetivo: Ser um Engenheiro e Arquiteto de IA.
+- 🔎 Busco aprender: Machine Learning, Agentes de IA, Engenharia de Contexto/Prompt e RAG
 
 ##
 
